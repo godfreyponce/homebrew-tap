@@ -1,6 +1,6 @@
 cask "pauri" do
-  version "0.1.2"
-  sha256 "7c30fdfec0f4aeeab7e12f7532e4ccfd6e276195c9b37f30f5f44fe50f4e6c95"
+  version "0.1.3"
+  sha256 "69b1d6188f03b2bc35ffa18868fef623c0fd1b10b81e77463f2427c0936b363e"
 
   url "https://github.com/godfreyponce/pauri/releases/download/v#{version}/Pauri.zip"
   name "Pauri"
